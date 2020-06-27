@@ -5,7 +5,7 @@
 Bikeshare Data.
 
 ### Description
-This project is an analyses of bikeshare data of various region using python libraries like Pandas and Numpy. 
+This project is an analyses of bikeshare data of various like chicago, New York and Washington region using python libraries like Pandas and Numpy. 
 
 ### Files used
 Following files:
