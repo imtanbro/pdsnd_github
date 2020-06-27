@@ -2,7 +2,7 @@
 27/06/2020
 
 ### Project Title
-Bikeshare Data
+Bikeshare Data.
 
 ### Description
 This project is an analyses of bikeshare data of various region using python libraries like Pandas and Numpy. 
@@ -16,5 +16,5 @@ washington.csv
 
 ### Credits
 Google Numpy documentations,
-Pandas documentation
+Pandas documentation.
 
