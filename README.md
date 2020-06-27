@@ -5,7 +5,7 @@
 Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project is an analyses of bikeshare data of various region using python libraries like Pandas and Numpy. 
 
 ### Files used
 Include the files used
