@@ -16,5 +16,6 @@ washington.csv
 
 ### Credits
 Google Numpy documentations,
-Pandas documentation.
+Pandas documentation,
+Udacity - Programing for Data Science in Python
 
